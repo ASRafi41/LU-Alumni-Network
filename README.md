@@ -1,9 +1,29 @@
-Alhamdulillah, We have done our Java Swing project (Desktop Application) in Java course under the supervision of Md Jehadul Islam Mony Sir. Our project name is LU Alumni Association. With this software:
+LU Alumni Association
+=====================
 
-1. Anyone can create an account and then log in, logout
-2. See other's profiles with all information including profile picture, LinkedIn and Github profile
-3. Can search by using name, location, tech stack
-4. Can update any field of their own profile
-5. Can delete their own profile
+A Java Swing desktop application backed by MySQL to let Leading University alumni register, explore one another’s profiles, and manage their own data—all with full validation on every field.
 
-All the fields contain regex validation. So there is no option of submitting invalid information. We have used Java Swing along with MySQL for database, and row Java code for functionalities. The coding part was handled by me Abu Sufian Rafi and Shah Sayem Ahmad. The planning, UI design, and UX design were done by Fariha Rahman, Farjana Khan and Numan Ahmed Rony. Thanks everyone for your kind contribution. (N. B: For security issues, we do not use actual data of individuals in our project.)
+Features
+--------
+1. User registration, login and logout  
+2. View other alumni profiles (including photo, LinkedIn & GitHub links)  
+3. Search by name, location or technology stack  
+4. Update any field of your own profile  
+5. Delete your own profile  
+6. Regex validation on all inputs to enforce data integrity  
+
+Tech Stack
+----------
+- Java Swing for UI  
+- Plain Java for business logic  
+- MySQL for persistence  
+- MySQL Connector/J (JDBC)  
+
+Team & Roles
+------------
+- **Abu Sufian Rafi** – Core Java coding  
+- **Shah Sayem Ahmad** – Core Java coding  
+- **Fariha Rahman** – UI & UX design  
+- **Farjana Khan** – UI & UX design  
+- **Numan Ahmed Rony** – UI & UX design  
+- **Md Jehadul Islam Mony** – Supervisor  
